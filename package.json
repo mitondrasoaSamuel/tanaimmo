@@ -5,7 +5,8 @@
   "description": "Test technique TanàImmo – maintenance et fiabilité",
   "type": "module",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test src/crm/crmClient.test.js",
+    "test:crm": "node --test src/crm/crmClient.test.js"
   },
   "engines": {
     "node": ">=18"
