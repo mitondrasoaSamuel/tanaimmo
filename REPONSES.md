@@ -56,4 +56,4 @@ L’extrait A se corrige ici seulement. B et C seront corrigés dans le code ens
 | Pas de raw body : difficile de vérifier la signature | Moyenne | Garder le buffer brut (`rawBody`) 
 |
 
-Correctif prévu : `src/api/paymentWebhook.js`.
+Code corrigé : `src/api/paymentWebhook.js`.
