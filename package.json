@@ -1,0 +1,13 @@
+{
+  "name": "tanaimmo-reliability",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test technique TanàImmo – maintenance et fiabilité",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
