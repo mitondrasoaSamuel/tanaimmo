@@ -38,7 +38,6 @@ L’extrait A se corrige ici seulement. B et C seront corrigés dans le code ens
 | Pas de limite : toute la ville peut être renvoyée | Haute | Plafond sur `pageSize` 
 |
 
-Correctif prévu : `src/api/listings.js`.
 
 ### Extrait C – webhook paiement
 
